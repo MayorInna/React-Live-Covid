@@ -1,6 +1,7 @@
 ## Covid Statistics
 
-## It's Live 🎉 Visit here ==> 
+## It's Live 🎉 Visit here ==> https://mayorinna.github.io/react-Live-Covid
+
 
 
 ![image](https://user-images.githubusercontent.com/37651620/102813187-79d2c400-43f0-11eb-9893-16bbed8f6a2f.png)
